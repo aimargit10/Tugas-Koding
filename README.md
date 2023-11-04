@@ -10,8 +10,6 @@ Baris ketujuh, if (i>=9){, memeriksa apakah nilai variabel i lebih besar atau sa
 Baris kedelapan, System.out.println("ucok");, mencetak string "ucok" ke konsol jika kondisi pada baris ketujuh terpenuhi.
 Baris kesembilan, } // Perulangan, mengakhiri perulangan while.      
 
-
-
 Soal Kedua (Ganjil-Genap)
 
 Baris 1: Mendeklarasikan kelas Ganjilgenap.
@@ -26,8 +24,6 @@ Baris 9: Mencetak pesan bahwa bilangan angka adalah ganjil.
 Baris 10: Increment nilai variabel angka sebesar 1.
 Baris 11: Mengakhiri perulangan while.          
 
-
-
 Soal Ketiga (Zodiak)
 
 Baris 1: Mengimpor kelas Scanner dari paket java.util. Kelas Scanner digunakan untuk mendapatkan input dari pengguna.
@@ -41,8 +37,6 @@ Baris 9: Mendeklarasikan variabel zodiac untuk menyimpan zodiak pengguna.
 Baris 10: Struktur switch-case untuk menentukan zodiak berdasarkan bulan lahir.
 Baris 11-26: Kondisi untuk menentukan zodiak berdasarkan bulan lahir.
 Baris 28: Mencetak pesan ke konsol untuk menampilkan zodiak pengguna.  
-
-
 
 Soal Keempat (Array)
 
