@@ -19,6 +19,7 @@ Baris kedelapan, System.out.println("ucok");, mencetak string "ucok" ke konsol j
 Baris kesembilan, } // Perulangan, mengakhiri perulangan while.      
 
 
+
 Soal Kedua (Ganjil-Genap)
 
 Baris 1: Mendeklarasikan kelas Ganjilgenap.
@@ -44,6 +45,7 @@ Baris 10: Increment nilai variabel angka sebesar 1.
 Baris 11: Mengakhiri perulangan while.          
 
 
+
 Soal Ketiga (Zodiak)
 
 Baris 1: Mengimpor kelas Scanner dari paket java.util. Kelas Scanner digunakan untuk mendapatkan input dari pengguna.
@@ -67,6 +69,7 @@ Baris 10: Struktur switch-case untuk menentukan zodiak berdasarkan bulan lahir.
 Baris 11-26: Kondisi untuk menentukan zodiak berdasarkan bulan lahir.
 
 Baris 28: Mencetak pesan ke konsol untuk menampilkan zodiak pengguna.  
+
 
 
 Soal Keempat (Array)
