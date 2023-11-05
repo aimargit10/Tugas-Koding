@@ -4,7 +4,7 @@ Baris pertama, public class perulangan {, mendeklarasikan kelas perulangan. Kela
 Baris kedua, public static void main(String[] args) {, mendeklarasikan metode main(). Metode ini adalah titik masuk program Java.
 Baris ketiga, int i = 1;, inisialisasi variabel i dengan nilai 1.
 Baris keempat, while (i <= 117) {, memulai perulangan while. Perulangan akan terus berjalan selama nilai variabel i kurang dari atau sama dengan 117.
-Baris kelima, System.out.println(i);, mencetak nilai variabel i ke kinsol.
+Baris kelima, System.out.println(i);, mencetak nilai variabel i ke konsol.
 Baris keenam, i++;, increment nilai variabel i sebesar 1.
 Baris ketujuh, if (i>=9){, memeriksa apakah nilai variabel i lebih besar atau sama dengan 9.
 Baris kedelapan, System.out.println("ucok");, mencetak string "ucok" ke konsol jika kondisi pada baris ketujuh terpenuhi.
@@ -20,7 +20,7 @@ Baris 3: Inisialisasi variabel angka dengan nilai 1.
 Baris 4: Memulai perulangan while. Perulangan akan terus berjalan selama nilai variabel angka kurang dari atau sama dengan 27.
 Baris 5: Memeriksa apakah nilai variabel angka habis dibagi 2.
 Baris 6: Jika nilai variabel angka habis dibagi 2, maka bilangan tersebut genap.
-Baris 7: Mencetak pesan bahwa bilsngan angka adalah genap.
+Baris 7: Mencetak pesan bahwa bilangan angka adalah genap.
 Baris 8: Jika nilai variabel angka tidak habis dibagi 2, maka bilangan tersebut ganjil.
 Baris 9: Mencetak pesan bahwa bilangan angka adalah ganjil.
 Baris 10: Increment nilai variabel angka sebesar 1.
