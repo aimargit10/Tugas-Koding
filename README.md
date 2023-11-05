@@ -39,7 +39,7 @@ Baris 6: Mendapatkan input tanggal lahir dari pengguna dan menyimpannya ke dalam
 Baris 7: Memecah string tanggal lahir menjadi tanggal dan bulan, dan menyimpannya ke dalam variabel tanggal dan bulan.
 Baris 9: Mendeklarasikan variabel zodiac untuk menyimpan zodiak pengguna.
 Baris 10: Struktur switch-case untuk menentukan zodiak berdasarkan bulan lahir.
-Baris 11-26: Kondisi untuk menebtukan zodiak berdasarkan bulan lahir.
+Baris 11-26: Kondisi untuk menentukan zodiak berdasarkan bulan lahir.
 Baris 28: Mencetak pesan ke konsol untuk menampilkan zodiak pengguna.  
 
 jika anda mengimput data hari/bulan misal 27/05 maka akan keluar hasil zodiak gemini sesuai data yang kita imputkan
@@ -48,7 +48,7 @@ Soal Keempat (Array)
 
 Baris 1: Mendeklarasikan kelas Array. Kelas ini berisi kode utama program.
 Baris 2: Mendeklarasikan metode main(). Metode ini adalah titik masuk program Java.
-Baris 3: Deklarasi variabel array huruf dengan tipe data String. Array huruf memuliki empat elemen, yaitu "a", "y", "a", dan "m".
+Baris 3: Deklarasi variabel array huruf dengan tipe data String. Array huruf memiliki empat elemen, yaitu "a", "y", "a", dan "m".
 Baris 5: Perulangan for-each untuk mengakses setiap elemen array.
 Baris 6: Mencetak nilai elemen array.
 
