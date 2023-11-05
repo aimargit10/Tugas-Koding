@@ -35,7 +35,7 @@ Baris 2: Mendeklarasikan kelas zodiak. Kelas ini berisi kode utama program.
 Baris 3: Mendeklarasikan metode main(). Metode ini adalah titik masuk program Java.
 Baris 4: Membuat objek Scanner baru yang akan digunakan untuk mendapatkan input dari pengguna.
 Baris 5: Mencetak pesan ke konsol untuk meminta pengguna memasukkan tanggal lahirnya.
-Baris 6: Mendapatkan input tanggal lahir dari pengguna dan menyinpannya ke dalam variabel tanggalLahir.
+Baris 6: Mendapatkan input tanggal lahir dari pengguna dan menyimpannya ke dalam variabel tanggalLahir.
 Baris 7: Memecah string tanggal lahir menjadi tanggal dan bulan, dan menyimpannya ke dalam variabel tanggal dan bulan.
 Baris 9: Mendeklarasikan variabel zodiac untuk menyimpan zodiak pengguna.
 Baris 10: Struktur switch-case untuk menentukan zodiak berdasarkan bulan lahir.
