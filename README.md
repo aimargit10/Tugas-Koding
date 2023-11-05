@@ -1,6 +1,6 @@
 Soal Pertama (Perulangan)
 
-Baris pertama, public class perulangan {, mendeklarasikan kelas perilangan. Kelas ini berisi kode utama program.
+Baris pertama, public class perulangan {, mendeklarasikan kelas perulangan. Kelas ini berisi kode utama program.
 Baris kedua, public static void main(String[] args) {, mendeklarasikan metode main(). Metode ini adalah titik masuk program Java.
 Baris ketiga, int i = 1;, inisialisasi variabel i dengan nilai 1.
 Baris keempat, while (i <= 117) {, memulai perulangan while. Perulangan akan terus berjalan selama nilai variabel i kurang dari atau sama dengan 117.
