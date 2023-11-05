@@ -10,6 +10,8 @@ Baris ketujuh, if (i>=9){, memeriksa apakah nilai variabel i lebih besar atau sa
 Baris kedelapan, System.out.println("ucok");, mencetak string "ucok" ke konsol jika kondisi pada baris ketujuh terpenuhi.
 Baris kesembilan, } // Perulangan, mengakhiri perulangan while.      
 
+jika kita run maka akan keluar hasil 1 sampai 8 akan kosong tetapi dari angka 9 sampai 117 maka akan keluar kata ucok
+
 Soal Kedua (Ganjil-Genap)
 
 Baris 1: Mendeklarasikan kelas Ganjilgenap.
@@ -22,7 +24,9 @@ Baris 7: Mencetak pesan bahwa bilangan angka adalah genap.
 Baris 8: Jika nilai variabel angka tidak habis dibagi 2, maka bilangan tersebut ganjil.
 Baris 9: Mencetak pesan bahwa bilangan angka adalah ganjil.
 Baris 10: Increment nilai variabel angka sebesar 1.
-Baris 11: Mengakhiri perulangan while.          
+Baris 11: Mengakhiri perulangan while.    
+
+jika di run maka akan keluar maka akan kelaur angka 1 sampai 27 dengan penjelasan ganjil dan juga genap
 
 Soal Ketiga (Zodiak)
 
@@ -38,6 +42,8 @@ Baris 10: Struktur switch-case untuk menentukan zodiak berdasarkan bulan lahir.
 Baris 11-26: Kondisi untuk menentukan zodiak berdasarkan bulan lahir.
 Baris 28: Mencetak pesan ke konsol untuk menampilkan zodiak pengguna.  
 
+jika anda mengimput data hari/bulan misal 27/05 maka akan keluar hasil zodiak gemini sesuai data yang kita imputkan
+
 Soal Keempat (Array)
 
 Baris 1: Mendeklarasikan kelas Array. Kelas ini berisi kode utama program.
@@ -45,3 +51,5 @@ Baris 2: Mendeklarasikan metode main(). Metode ini adalah titik masuk program Ja
 Baris 3: Deklarasi variabel array huruf dengan tipe data String. Array huruf memiliki empat elemen, yaitu "a", "y", "a", dan "m".
 Baris 5: Perulangan for-each untuk mengakses setiap elemen array.
 Baris 6: Mencetak nilai elemen array.
+
+jika di run maka akan keluar hasil seperti a,y,a,m.
